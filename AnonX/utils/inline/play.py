@@ -61,20 +61,20 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="🍒̵̶⃰͟˶֟፝͟͝sᴜᴩᴩᴏʀᴛ⏎͟🝛꯭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="🍒̵̶⃰͟˶֟፝͟͝ᴄʜᴀɴɴᴇʟ⏎͟🝛꯭🧸", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/L2R_KING0"
+                text="👑ᴏᴡɴᴇʀ👑", url=f"https://t.me/L2R_KING0"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="❤️⃡˓⃝˓⃝˓⃝˓⃝˓⃝   ᴄʟᴏꜱᴇ   ˓⃝˓⃝˓⃝˓⃝˓⃝❤️", callback_data=f"close"
             )
         ],
     ]
@@ -131,20 +131,20 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="🍒̵̶⃰͟˶֟፝͟͝sᴜᴩᴩᴏʀᴛ⏎͟🝛꯭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="🍒̵̶⃰͟˶֟፝͟͝ᴄʜᴀɴɴᴇʟ⏎͟🝛꯭🧸", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/L2R_KING0"
+                text="👑ᴏᴡɴᴇʀ👑", url=f"https://t.me/L2R_KING0"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="❤️⃡˓⃝˓⃝˓⃝˓⃝˓⃝   ᴄʟᴏꜱᴇ   ˓⃝˓⃝˓⃝˓⃝˓⃝❤️", callback_data=f"close"
             )
         ],
     ]
@@ -173,20 +173,20 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="🍒̵̶⃰͟˶֟፝͟͝sᴜᴩᴩᴏʀᴛ⏎͟🝛꯭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="🍒̵̶⃰͟˶֟፝͟͝ᴄʜᴀɴɴᴇʟ⏎͟🝛꯭🧸", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/L2R_KING0"
+                text="👑ᴏᴡɴᴇʀ👑", url=f"https://t.me/L2R_KING0"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="❤️⃡˓⃝˓⃝˓⃝˓⃝˓⃝   ᴄʟᴏꜱᴇ   ˓⃝˓⃝˓⃝˓⃝˓⃝❤️", callback_data=f"close"
             )
         ],
     ]
@@ -212,20 +212,20 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="🍒̵̶⃰͟˶֟፝͟͝sᴜᴩᴩᴏʀᴛ⏎͟🝛꯭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="🍒̵̶⃰͟˶֟፝͟͝ᴄʜᴀɴɴᴇʟ⏎͟🝛꯭🧸", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/L2R_KING0"
+                text="👑ᴏᴡɴᴇʀ👑", url=f"https://t.me/L2R_KING0"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="❤️⃡˓⃝˓⃝˓⃝˓⃝˓⃝   ᴄʟᴏꜱᴇ   ˓⃝˓⃝˓⃝˓⃝˓⃝❤️", callback_data=f"close"
             )
         ],
     ]
@@ -349,10 +349,10 @@ close_keyboard = InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        text="ᴄʟᴏꜱᴇ", callback_data="close"
+                        text="❤️⃡˓⃝˓⃝˓⃝˓⃝˓⃝   ᴄʟᴏꜱᴇ   ˓⃝˓⃝˓⃝˓⃝˓⃝❤️", callback_data="close"
                     ),
                     InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/L2R_KING0"
+                text="👑ᴏᴡɴᴇʀ👑", url=f"https://t.me/L2R_KING0"
                     )
                 ]    
             ]
@@ -383,20 +383,20 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="🍒̵̶⃰͟˶֟፝͟͝sᴜᴩᴩᴏʀᴛ⏎͟🝛꯭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="🍒̵̶⃰͟˶֟፝͟͝ᴄʜᴀɴɴᴇʟ⏎͟🝛꯭🧸", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/L2R_KING0"
+                text="👑ᴏᴡɴᴇʀ👑", url=f"https://t.me/L2R_KING0"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="❤️⃡˓⃝˓⃝˓⃝˓⃝˓⃝   ᴄʟᴏꜱᴇ   ˓⃝˓⃝˓⃝˓⃝˓⃝❤️", callback_data=f"close"
             )
         ],
     ]
